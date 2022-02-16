@@ -3,7 +3,7 @@ widget: slider
 widget_id: slider-widget
 headless: true
 weight: 5
-title: Slider
+title: Projects
 active: true
 design:
   columns: "2"
