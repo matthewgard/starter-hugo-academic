@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Slider
+  - name: Home
     url: '#slider'
     weight: 5
-  - name: Home
+  - name: Biography
     url: '#about'
     weight: 10
   - name: Posts
