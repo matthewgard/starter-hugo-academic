@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: fa-calculator-simple
-  icon_pack: fa-solid
+  icon: calculator
+  icon_pack: fa
   name: MATLAB
 - description:
   icon: chart-line
