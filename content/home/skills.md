@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Data analysis
 - description:
-  icon: abacus
+  icon: calculator
   icon_pack: fas
   name: MATLAB
 - description:
