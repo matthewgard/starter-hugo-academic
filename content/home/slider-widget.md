@@ -2,7 +2,7 @@
 widget: slider
 widget_id: slider-widget
 headless: true
-weight: 10
+weight: 5
 title: Slider
 active: true
 design:
