@@ -21,6 +21,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#    description: |2-
+#        #Responsibilities include:
+#        
+#        #* Analysing
+#        #* Modelling
+#        #* Deploying
 experience:
   - title: Geophysicist (Geomagnetic Observatories)
     company: Geoscience Australia
@@ -29,12 +35,7 @@ experience:
     location: Canberra, ACT
     date_start: '2019-04-01'
     date_end: ''
-    description: |2-
-        #Responsibilities include:
-        
-        #* Analysing
-        #* Modelling
-        #* Deploying
+    description:
         
   - title: Demonstrator (Geophysics III)
     company: University of Adelaide
@@ -43,7 +44,7 @@ experience:
     location: Adelaide, SA
     date_start: '2016-01-01'
     date_end: '2017-12-31'
-    description: Geophysics III
+    description:
 
 design:
   columns: '2'
