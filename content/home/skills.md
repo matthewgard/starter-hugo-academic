@@ -21,13 +21,13 @@ feature:
   icon_pack: fab
   name: Python
 - description:
+  icon: calculator-simple
+  icon_pack: fas
+  name: MATLAB
+- description:
   icon: chart-line
   icon_pack: fas
   name: Data analysis
-- description:
-  icon: calculator
-  icon_pack: fas
-  name: MATLAB
 - description:
   icon: overleaf
   icon_pack: ai
