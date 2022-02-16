@@ -27,7 +27,7 @@ experience:
     company_url: 'http://www.ga.gov.au/'
     company_logo: org-ga
     location: Canberra, ACT
-    date_start: '2019-04'
+    date_start: '2019-04-01'
     date_end: ''
     description: |2-
         #Responsibilities include:
@@ -41,9 +41,9 @@ experience:
     company_url: 'https://www.adelaide.edu.au/'
     company_logo: org-uofa
     location: Adelaide, SA
-    date_start: '2016'
-    date_end: '2018'
-    description:
+    date_start: '2016-01-01'
+    date_end: '2017-12-31'
+    description: Geophysics III
 
 design:
   columns: '2'
