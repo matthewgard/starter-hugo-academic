@@ -21,8 +21,8 @@ item:
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
-	cta_label: Get project
-	cta_url: 'https://example.org'
+    cta_label: Get project
+    cta_url: 'https://example.org'
     cta_icon_pack: fab
     cta_icon: github
   - title: Project3
@@ -31,8 +31,8 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-	cta_label: Get project
-	cta_url: 'https://example.org'
+    cta_label: Get project
+    cta_url: 'https://example.org'
     cta_icon_pack: fab
     cta_icon: github
 ---
