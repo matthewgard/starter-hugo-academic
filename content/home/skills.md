@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Data analysis
 - description:
-  icon: matlab
-  icon_pack: fas
-  name: MATLAB
+  icon: overleaf
+  icon_pack: ai
+  name: Overleaf
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
