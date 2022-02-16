@@ -31,7 +31,7 @@ experience:
   - title: Geophysicist (Geomagnetic Observatories)
     company: Geoscience Australia
     company_url: 'http://www.ga.gov.au/'
-    company_logo: org-ga
+    company_logo: org-federal
     location: Canberra, ACT
     date_start: '2019-04-01'
     date_end: ''
