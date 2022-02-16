@@ -22,10 +22,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/matthewgard/
   - icon: researchgate
-    icon_pack: fa
+    icon_pack: fab
 	link: https://www.researchgate.net/profile/Matthew-Gard
   - icon: orcid
-    icon_pack: fa
+    icon_pack: fab
 	link: https://orcid.org/0000-0002-7695-2484
 organizations:
   - name: Geoscience Australia
