@@ -6,26 +6,33 @@ height: 300px
 weight: 5
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
-    align: center
+  - title: Project1
+    content: 'Project #1'
+    align: left
     overlay_color: '#666'
-    overlay_img: icon.png
     overlay_filter: 0.5
-    cta_label: Download my app
+    cta_label: Get project
     cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
+    cta_icon_pack: fab
+    cta_icon: github
+  - title: Project2
+    content: 'Project #2'
     align: left
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
+	cta_label: Get project
+	cta_url: 'https://example.org'
+    cta_icon_pack: fab
+    cta_icon: github
+  - title: Project3
+    content: 'Project #3'
+    align: left
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+	cta_label: Get project
+	cta_url: 'https://example.org'
+    cta_icon_pack: fab
+    cta_icon: github
 ---

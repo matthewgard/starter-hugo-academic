@@ -15,7 +15,6 @@ design:
     gradient_start: "#00839a"
     gradient_end: "#01e5f8"
     text_color_light: true
-    image: dsc_0290.jpg
   spacing:
     padding:
       - 20px
