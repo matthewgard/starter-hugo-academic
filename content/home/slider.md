@@ -3,7 +3,7 @@ widget: slider
 headless: true
 interval: false
 height: 300px
-
+weight: 5
 
 item:
   - title: Hello
