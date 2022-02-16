@@ -25,6 +25,10 @@ feature:
   icon_pack: fas
   name: Data analysis
 - description:
+  icon: abacus
+  icon_pack: fas
+  name: MATLAB
+- description:
   icon: overleaf
   icon_pack: ai
   name: Overleaf
