@@ -20,14 +20,18 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 100%
+- description:
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Data analysis
+- description:
+  icon: matlab
   icon_pack: fas
-  name: Photography
+  name: MATLAB
+#- description: 10%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
