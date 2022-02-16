@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: calculator-simple
+  icon: camera-retro
   icon_pack: fas
   name: MATLAB
 - description:
