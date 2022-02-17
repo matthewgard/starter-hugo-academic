@@ -10,7 +10,7 @@ item:
     content: 'Project #1'
     align: left
     overlay_color: '#666'
-    overlay_img: 'video.mp4'
+    overlay_vid: 'rotateearth.gif'
     overlay_filter: 0.5
     cta_label: Get project
     cta_url: 'https://example.org'
