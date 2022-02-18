@@ -2,7 +2,7 @@
 widget: slider
 headless: true
 interval: 5000
-height: 300px
+height: 500px
 weight: 5
 
 item:
@@ -10,8 +10,8 @@ item:
     content: 'Project #1'
     align: left
     overlay_color: '#666'
-    overlay_img: 'icon.png'
-    overlay_filter: 0.5
+    overlay_img: 'rotateearth.gif'
+    overlay_filter: 0.0
     cta_label: Get project
     cta_url: 'https://example.org'
     cta_icon_pack: fab
