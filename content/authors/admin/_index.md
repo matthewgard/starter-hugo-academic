@@ -1,5 +1,5 @@
 ---
-title: Dr. Matthew Gard
+title: Matthew Gard
 role: Geophysicist (Geomagnetism)
 avatar_filename: avatar.png
 bio: My research interests include geomagnetism, geothermics and space weather
