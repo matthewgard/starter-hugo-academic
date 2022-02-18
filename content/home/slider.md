@@ -2,7 +2,7 @@
 widget: slider
 headless: true
 interval: 5000
-height: 500px
+height: 300px
 weight: 5
 
 item:
