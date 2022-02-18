@@ -11,7 +11,7 @@ item:
     align: left
     overlay_color: '#666'
     overlay_img: 'rotateearth.gif'
-    overlay_filter: 0.0
+    overlay_filter: 0.9
     cta_label: Get project
     cta_url: 'https://example.org'
     cta_icon_pack: fab
