@@ -9,7 +9,7 @@ item:
   - title: Project1
     content: 'Project #1'
     align: left
-    overlay_img: 'rotateearth.gif'
+    overlay_vid: 'rotateearth.mp4'
     overlay_filter: 0.5
     cta_label: Get project
     cta_url: 'https://example.org'
