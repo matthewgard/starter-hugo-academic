@@ -10,7 +10,7 @@ item:
     content: 'Project #1'
     align: left
     overlay_img: 'rotateearth.gif'
-    overlay_filter: 0.5
+    overlay_filter: 0.2
     cta_label: Get project
     cta_url: 'https://example.org'
     cta_icon_pack: fab
