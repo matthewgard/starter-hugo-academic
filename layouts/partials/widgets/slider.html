@@ -31,8 +31,9 @@
       {{ else }}
         {{ errorf "Couldn't find `%s` in the `assets/media/` folder - please add it." $item.overlay_img }}
       {{ end }}
+    {{ end }}
     {{ if $item.overlay_vid }}
-      {{ $bg_vid := resources.Get (printf "media/%s" $item.overlay_img) }}
+      {{ $bg_vid := resources.Get (printf "media/%s" $item.overlay_vid) }}
       {{ if $bg_vid }}
         {{ $overlay_filter_string := "0" }}
         {{ if $item.overlay_filter }}
@@ -42,6 +43,7 @@
       {{ else }}
         {{ errorf "Couldn't find `%s` in the `assets/media/` folder - please add it." $item.overlay_vid }}
       {{ end }}
+   {{ end }}
    {{ end }}
 
 
