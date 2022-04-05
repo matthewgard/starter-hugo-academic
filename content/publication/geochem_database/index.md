@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Global whole-rock geochemical database compilation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -40,11 +40,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 links:
- - name: Link to publication
-   url: https://essd.copernicus.org/articles/11/1553/2019/
- - name: Zenodo hosted data set
+ - name: Data
    url: https://zenodo.org/record/3359791
- - name: Associated github codes
+ - name: Github
    url: https://github.com/dhasterok/global_geochemistry
 
 url_pdf: ''
@@ -81,12 +79,12 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
