@@ -40,7 +40,7 @@ featured: false
 #   url: http://example.org
 links:
  - name: PDF
-   url: https://matthewgard.com/publication/geochem_database/Gard&Hasterok2021.pdf
+   url: https://matthewgard.com/publication/curie_depth/Gard&Hasterok2021.pdf
  - name: Data
    url: https://data.mendeley.com/datasets/bvz2jz99xh/2
 
