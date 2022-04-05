@@ -47,4 +47,4 @@ highlight_name: true
 ---
 Matthew Gard is a geophysicist within the geomagnetic observatory team at Geoscience Australia. His research interests include the geomagnetic field, geothermics and space weather hazards.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
