@@ -3,6 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# Need to edit weight inside the content/home ones as well
+
+
 main:
   - name: Home
     url: '#slider'
@@ -13,14 +16,14 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Expererience
-    url: '#experience'
+  - name: Projects
+    url: '#projects'
     weight: 30
+  - name: Experience
+    url: '#experience'
+    weight: 40
   - name: Skills
     url: '#skills'
-    weight: 40
-  - name: Contact
-    url: '#contact'
     weight: 50
 
 
