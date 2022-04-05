@@ -32,6 +32,10 @@ feature:
   icon: overleaf
   icon_pack: ai
   name: Overleaf
+- description:
+  icon: paintbrush
+  icon_pack: fa
+  name: Adobe Illustrator
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
