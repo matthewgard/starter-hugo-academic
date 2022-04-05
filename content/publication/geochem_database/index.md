@@ -40,10 +40,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 links:
+ - name: PDF
+   url: https://matthewgard.com/publication/geochem_database/Gard_etal2019.pdf
  - name: Data
    url: https://zenodo.org/record/3359791
  - name: Github
    url: https://github.com/dhasterok/global_geochemistry
+
 
 url_pdf: ''
 url_code: ''
