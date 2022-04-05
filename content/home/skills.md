@@ -34,7 +34,7 @@ feature:
   name: Overleaf
 - description:
   icon: paintbrush
-  icon_pack: fa
+  icon_pack: fas
   name: Adobe Illustrator
 #- description: 10%
 #  icon: camera-retro
