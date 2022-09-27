@@ -6,16 +6,16 @@ height: 360px
 weight: 5
 
 item:
-  - title: Project1
-    content: 'Project #1'
+  - title: geomagnetic-tools
+    content: 'Misc. MATLAB scripts including spherical harmonic expansions'
     align: left
-    overlay_img: 'rotateearth.gif'
+    overlay_img: 'geomagnetic-tools.PNG'
     overlay_filter: 0.2
     cta_label: Get project
-    cta_url: 'https://example.org'
+    cta_url: 'https://github.com/matthewgard/geomagnetic-tools'
     cta_icon_pack: fab
     cta_icon: github
-  - title: Project2
+<!--   - title: Project2
     content: 'Project #2'
     align: left
     overlay_color: '#555'
@@ -34,5 +34,5 @@ item:
     cta_label: Get project
     cta_url: 'https://example.org'
     cta_icon_pack: fab
-    cta_icon: github
+    cta_icon: github -->
 ---
