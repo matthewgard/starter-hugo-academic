@@ -15,7 +15,7 @@ item:
     cta_url: 'https://github.com/matthewgard/geomagnetic-tools'
     cta_icon_pack: fab
     cta_icon: github
-<!--   - title: Project2
+  - title: Project2
     content: 'Project #2'
     align: left
     overlay_color: '#555'
@@ -34,5 +34,5 @@ item:
     cta_label: Get project
     cta_url: 'https://example.org'
     cta_icon_pack: fab
-    cta_icon: github -->
+    cta_icon: github
 ---
